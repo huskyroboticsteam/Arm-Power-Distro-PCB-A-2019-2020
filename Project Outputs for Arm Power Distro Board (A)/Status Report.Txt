@@ -1,15 +1,34 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Arm Power Distro Board (A).PrjPcb]
-   Generated File[Arm Power Distro Board (A)-RoundHoles-Plated.TXT]
-   Generated File[Arm Power Distro Board (A)-RoundHoles-NonPlated.TXT]
-   Generated File[Arm Power Distro Board (A)-SlotHoles-Plated.TXT]
-   Generated File[Arm Power Distro Board (A).DRL]
-   Generated File[Arm Power Distro Board (A).LDP]
-   Generated File[Arm Power Distro Board (A).DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Arm Power Distro Board (A).PrjPcb]
+   Generated File[Arm Power Distro Board (A).GTO]
+   Generated File[Arm Power Distro Board (A).GTP]
+   Generated File[Arm Power Distro Board (A).GTS]
+   Generated File[Arm Power Distro Board (A).GTL]
+   Generated File[Arm Power Distro Board (A).G1]
+   Generated File[Arm Power Distro Board (A).G2]
+   Generated File[Arm Power Distro Board (A).GBL]
+   Generated File[Arm Power Distro Board (A).GBS]
+   Generated File[Arm Power Distro Board (A).GBP]
+   Generated File[Arm Power Distro Board (A).GBO]
+   Generated File[Arm Power Distro Board (A).GM1]
+   Generated File[Arm Power Distro Board (A).GM4]
+   Generated File[Arm Power Distro Board (A).GM5]
+   Generated File[Arm Power Distro Board (A).GM7]
+   Generated File[Arm Power Distro Board (A).GM13]
+   Generated File[Arm Power Distro Board (A).GM15]
+   Generated File[Arm Power Distro Board (A).GM16]
+   Generated File[Arm Power Distro Board (A).GKO]
+   Generated File[Arm Power Distro Board (A).GPT]
+   Generated File[Arm Power Distro Board (A).GPB]
+   Generated File[Arm Power Distro Board (A).GD1]
+   Generated File[Arm Power Distro Board (A).GG1]
+   Generated File[Arm Power Distro Board (A).RUL]
+   Generated File[Arm Power Distro Board (A).EXTREP]
+   Generated File[Arm Power Distro Board (A).REP]
 
 
-Files Generated   : 6
+Files Generated   : 25
 Documents Printed : 0
 
-Finished Output Generation At 10:48:30 AM On 1/16/2020
+Finished Output Generation At 11:10:29 AM On 1/16/2020
