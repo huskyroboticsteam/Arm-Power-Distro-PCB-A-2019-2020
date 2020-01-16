@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Arm Power Distro Board (A).PcbDoc   1/16/2020  10:48:29 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Arm Power Distro Board (A)-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : Arm Power Distro Board (A)-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : Arm Power Distro Board (A)-SlotHoles-Plated.TXT
+EIA File   : Arm Power Distro Board (A).DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T2      15mil (0.381mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T3      25mil (0.635mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T4      28mil (0.711mm)                                           Round             126       PTH        0.00inch (0.00mm)
+T5      32mil (0.813mm)                                           Round             46        PTH        0.00inch (0.00mm)
+T6      35mil (0.9mm)                                             Round             55        PTH        0.00inch (0.00mm)
+T7      39mil (0.99mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T8      39mil (0.991mm)                                           Slot              4         PTH        0.00inch (0.00mm)
+T9      40mil (1.016mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T10     118mil (2.997mm)                                          Round             4         PTH        0.00inch (0.00mm)
+T11     126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T12     40mil (1.016mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              265
+
+Total Processing Time (hh:mm:ss) : 00:00:01
