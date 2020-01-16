@@ -1,0 +1,108 @@
+Change Component Footprint: Designator=F1 Old Footprint=*2920_FUSE New Footprint=PIN-W2/E2.8
+Change Component Footprint: Designator=TP1 Old Footprint=Test Point pad New Footprint=Test Point Through-hole
+Change Component Comment : Designator=C16 Old Comment=0.1uF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C24 Old Comment=0.1 uF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C25 Old Comment=0.1 uF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C26 Old Comment=0.1 uF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C1 Old Comment=2.2 uF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C7 Old Comment=2.2 uF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C8 Old Comment=2.2 uF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C14 Old Comment=2.2 uF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C17 Old Comment=2.2 uF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C23 Old Comment=2.2 uF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=F1 Old Comment=5.2A 24V Fuse  New Comment=Fuse 2
+Change Component Comment : Designator=R20 Old Comment=5.6 K New Comment=RC0805FR-0736KL
+Change Component Comment : Designator=R21 Old Comment=5.6 K New Comment=RC0805FR-0736KL
+Change Component Comment : Designator=R22 Old Comment=5.6 K New Comment=RC0805FR-0736KL
+Change Component Comment : Designator=R23 Old Comment=5.6 K New Comment=RC0805FR-0736KL
+Change Component Comment : Designator=R24 Old Comment=5.6 K New Comment=RC0805FR-0736KL
+Change Component Comment : Designator=R25 Old Comment=5.6 K New Comment=RC0805FR-0736KL
+Change Component Comment : Designator=R26 Old Comment=5.6 K New Comment=RC0805FR-0736KL
+Change Component Comment : Designator=R27 Old Comment=5.6 K New Comment=RC0805FR-0736KL
+Change Component Comment : Designator=R28 Old Comment=5.6 K New Comment=RC0805FR-0736KL
+Change Component Comment : Designator=R5 Old Comment=10 KO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R11 Old Comment=10 KO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R18 Old Comment=10 KO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=C15 Old Comment=10uF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=L1 Old Comment=10 uH New Comment=Part Number: SRP1250-100M
+Change Component Comment : Designator=L2 Old Comment=10 uH New Comment=Part Number: SRP1250-100M
+Change Component Comment : Designator=L3 Old Comment=10 uH New Comment=Part Number: SRP1250-100M
+Change Component Comment : Designator=C4 Old Comment=15 nF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C11 Old Comment=15 nF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C20 Old Comment=15 nF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=R17 Old Comment=45.3 KO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R29 Old Comment=47 KO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R30 Old Comment=47 KO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R31 Old Comment=47 KO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R4 Old Comment=72.3 KO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R10 Old Comment=72.3 KO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R14 Old Comment=82.5 kO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=C5 Old Comment=82 pF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C12 Old Comment=82 pF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C21 Old Comment=82 pF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=R1 Old Comment=88.7 kO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R7 Old Comment=88.7 kO New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=C2 Old Comment=100 nF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C9 Old Comment=100 nF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C18 Old Comment=100 nF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C22 Old Comment=100 uF New Comment=Part Number: 6TPE150MAPB
+Change Component Comment : Designator=R13 Old Comment=100 O New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R19 Old Comment=120 New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=C6 Old Comment=150 uF New Comment=Part Number: 6TPE150MAPB
+Change Component Comment : Designator=C13 Old Comment=150 uF New Comment=Part Number: 6TPE150MAPB
+Change Component Comment : Designator=C3 Old Comment=470 nF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C10 Old Comment=470 nF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=C19 Old Comment=470 nF New Comment=EMK212BJ225KG-T
+Change Component Comment : Designator=R6 Old Comment=500 O New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R12 Old Comment=500 O New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R16 Old Comment=665 O New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R3 Old Comment=681 O New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=R9 Old Comment=681 O New Comment=Part Number: CRCW0805681RFKEA_1
+Change Component Comment : Designator=J1 Old Comment=CANin New Comment=Molex Micro
+Change Component Comment : Designator=J2 Old Comment=CANout New Comment=Molex Micro
+Change Component Comment : Designator=U1 Old Comment=CSD18537NQ5A (5V H) New Comment=Part Number: CSD18537NQ5A
+Change Component Comment : Designator=U6 Old Comment=CSD18537NQ5A (5V H) New Comment=Part Number: CSD18537NQ5A
+Change Component Comment : Designator=U11 Old Comment=CSD18537NQ5A (5V H) New Comment=Part Number: CSD18537NQ5A
+Change Component Comment : Designator=U3 Old Comment=CSD19534Q5A (5V L) New Comment=Part Number: CSD19534Q5A
+Change Component Comment : Designator=U8 Old Comment=CSD19534Q5A (5V L) New Comment=Part Number: CSD19534Q5A
+Change Component Comment : Designator=U14 Old Comment=CSD19534Q5A (5V L) New Comment=Part Number: CSD19534Q5A
+Change Component Comment : Designator=Y1 Old Comment=ECS-8FMX-400-B-TR New Comment=SG-636PCW_50.0000MC3__ROHS
+Change Component Comment : Designator=U4 Old Comment=INA194AIDBVR New Comment=Part Number: INA194AIDBVR
+Change Component Comment : Designator=U9 Old Comment=INA194AIDBVR New Comment=Part Number: INA194AIDBVR
+Change Component Comment : Designator=U15 Old Comment=INA194AIDBVR New Comment=Part Number: INA194AIDBVR
+Change Component Comment : Designator=P2 Old Comment=Jumper New Comment=Header 2
+Change Component Comment : Designator=P5 Old Comment=Jumper New Comment=Header 2
+Change Component Comment : Designator=P6 Old Comment=Jumper New Comment=Header 2
+Change Component Comment : Designator=U12 Old Comment=Part Number: LM3150MHX/NOPB (3.3) New Comment=Part Number: LM3150MHX/NOPB
+Change Component Comment : Designator=U2 Old Comment=Part Number: LM3150MHX/NOPB (5V) New Comment=Part Number: LM3150MHX/NOPB
+Change Component Comment : Designator=U7 Old Comment=Part Number: LM3150MHX/NOPB (5V) New Comment=Part Number: LM3150MHX/NOPB
+Change Component Comment : Designator=P1 Old Comment=Univeral Mount 1 New Comment=Header 8X2
+Change Component Comment : Designator=P3 Old Comment=Univeral Mount 2 New Comment=Header 8X2
+Change Component Comment : Designator=P4 Old Comment=Univeral Mount 3 - Off Board New Comment=Header 8X2
+Change Component Description : Designator=C6 Old Description=Part Number: 6TPE150MAPB New Description=No Description Available
+Change Component Description : Designator=C13 Old Description=Part Number: 6TPE150MAPB New Description=No Description Available
+Change Component Description : Designator=C22 Old Description=Part Number: 6TPE150MAPB New Description=No Description Available
+Change Component Description : Designator=R1 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R3 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R4 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R5 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R6 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R7 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R9 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R10 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R11 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R12 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R13 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R14 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R16 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R17 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R18 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R19 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R29 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R30 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=R31 Old Description=Part Number: CRCW0805681RFKEA_1 New Description=No Description Available
+Change Component Description : Designator=L1 Old Description=Part Number: SRP1250-100M New Description=No Description Available
+Change Component Description : Designator=L2 Old Description=Part Number: SRP1250-100M New Description=No Description Available
+Change Component Description : Designator=L3 Old Description=Part Number: SRP1250-100M New Description=No Description Available
+Added Pin To Net: NetName=IN Pin=F1-1
+Added Pin To Net: NetName=24Vin Pin=F1-2

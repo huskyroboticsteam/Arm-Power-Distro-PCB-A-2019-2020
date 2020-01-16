@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=IN Pin=1-2
+Added Pin To Net: NetName=IN Pin=TP11-1
+Added Room: Name=Arm Power Distro Board (A)
+Added Room: Name=DC-DC Converters
+Added Room: Name=Input
+Added Room: Name=Linear Voltage Regulator
+Added Room: Name=Output - 24V
+Added Room: Name=Output - Motor Units

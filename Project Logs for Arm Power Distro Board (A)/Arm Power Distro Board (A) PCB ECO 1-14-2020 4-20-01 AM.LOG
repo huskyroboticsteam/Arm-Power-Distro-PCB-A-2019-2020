@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MU 1 Pin=F-IN5-2
+Removed Pin From Net: NetName=MU 1 Pin=F-IN6-2
+Removed Pin From Net: NetName=GND Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R25-1
+Removed Member From Class: ClassName=Arm Power Distro Board (A) Member=F-IN5
+Removed Member From Class: ClassName=Arm Power Distro Board (A) Member=F-IN6
+Removed Member From Class: ClassName=Arm Power Distro Board (A) Member=R24
+Removed Member From Class: ClassName=Arm Power Distro Board (A) Member=R25
+Change Component Designator: OldDesignator=F-Fuse NewDesignator=F-IN2
+Change Component Designator: OldDesignator=F-IN NewDesignator=F-IN1
+Change Component Designator: OldDesignator=INPUT NewDesignator=1
+Change Component Designator: OldDesignator=OUTPUT NewDesignator=2
+Added Member To Class: ClassName=Arm Power Distro Board (A) Member=Component F-IN3 150060VS75000
+Added Room: Name=Arm Power Distro Board (A)
+Added Room: Name=DC-DC Converters
+Added Room: Name=Input
+Added Room: Name=Linear Voltage Regulator
+Added Room: Name=Output - 24V
+Added Room: Name=Output - Motor Units
