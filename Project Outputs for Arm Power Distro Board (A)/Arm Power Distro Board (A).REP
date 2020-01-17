@@ -2,100 +2,58 @@
 FileName = Arm Power Distro Board (A).GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 16
-      File : Arm Power Distro Board (A).GM16
+Generating : Drill Drawing
+      File : Arm Power Distro Board (A).GD1
 
-    Adding Layer      : Mechanical 16
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
-    D11
+    D13
+    D118
+    D119
+    D120
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : Arm Power Distro Board (A).GM15
+Generating : Drill Guide
+      File : Arm Power Distro Board (A).GG1
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D13
+    D118
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Arm Power Distro Board (A).GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
     D10
     D11
+    D12
+    D13
     D14
     D15
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 5
-      File : Arm Power Distro Board (A).GM5
-
-    Adding Layer      : Mechanical 5
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Arm Power Distro Board (A).GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Arm Power Distro Board (A).GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
@@ -103,6 +61,8 @@ Generating : Bottom Layer
       File : Arm Power Distro Board (A).GBL
 
     Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
 
     Adding Layer      : Multi-Layer
 
@@ -129,33 +89,16 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : Arm Power Distro Board (A).GM13
+Generating : Mechanical 7
+      File : Arm Power Distro Board (A).GM7
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Mechanical 7
 
-
-Used DCodes :
-    D11
-    D12
-    D15
-    D17
-    D115
-    D116
-    D117
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 4
-      File : Arm Power Distro Board (A).GM4
-
-    Adding Layer      : Mechanical 4
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D14
-    D16
-    D115
+    D13
 *************************************************************
 
 *************************************************************
@@ -164,25 +107,7 @@ Generating : Mechanical 1
 
     Adding Layer      : Mechanical 1
 
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Arm Power Distro Board (A).GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Arm Power Distro Board (A).GBO
-
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
@@ -195,12 +120,15 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D13
     D53
     D77
     D78
@@ -227,8 +155,11 @@ Generating : Top Pad Master
 
     Adding Layer      : Multi-Layer
 
+    Adding Layer      : Mechanical 1
+
 
 Used DCodes :
+    D13
     D19
     D20
     D21
@@ -281,10 +212,13 @@ Generating : Layer 2
 
     Adding Layer      : Layer 2
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D13
     D93
     D102
     D106
@@ -292,50 +226,131 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Drill Drawing
-      File : Arm Power Distro Board (A).GD1
+Generating : Mechanical 16
+      File : Arm Power Distro Board (A).GM16
 
-    Adding Drill Pair : Top Layer-Bottom Layer
+    Adding Layer      : Mechanical 16
 
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D118
-    D119
-    D120
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : Arm Power Distro Board (A).GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D118
+    D11
+    D13
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Arm Power Distro Board (A).GTO
+Generating : Mechanical 13
+      File : Arm Power Distro Board (A).GM13
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D10
     D11
     D12
     D13
-    D14
     D15
-    D16
     D17
-    D18
+    D115
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : Arm Power Distro Board (A).GM5
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Arm Power Distro Board (A).GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Arm Power Distro Board (A).GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Arm Power Distro Board (A).GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
 *************************************************************
 
 *************************************************************
@@ -346,8 +361,11 @@ Generating : Bottom Pad Master
 
     Adding Layer      : Multi-Layer
 
+    Adding Layer      : Mechanical 1
+
 
 Used DCodes :
+    D13
     D101
     D102
     D103
@@ -365,6 +383,8 @@ Generating : Layer 1
       File : Arm Power Distro Board (A).G1
 
     Adding Layer      : Layer 1
+
+    Adding Layer      : Mechanical 1
 
     Adding Layer      : Multi-Layer
 
@@ -385,10 +405,29 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Mechanical 15
+      File : Arm Power Distro Board (A).GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : Arm Power Distro Board (A).GTS
 
     Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
 
     Adding Layer      : Top Layer
 
@@ -396,6 +435,7 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D13
     D19
     D20
     D30
@@ -449,13 +489,32 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 7
-      File : Arm Power Distro Board (A).GM7
+Generating : Mechanical 4
+      File : Arm Power Distro Board (A).GM4
 
-    Adding Layer      : Mechanical 7
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
+    D13
+    D14
+    D16
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Arm Power Distro Board (A).GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
 *************************************************************
 
 *************************************************************
@@ -463,6 +522,8 @@ Generating : Top Layer
       File : Arm Power Distro Board (A).GTL
 
     Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
 
     Adding Layer      : Multi-Layer
 
