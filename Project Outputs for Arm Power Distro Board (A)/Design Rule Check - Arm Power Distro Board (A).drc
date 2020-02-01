@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\User\Documents\UW 2019-20\Robotics\Arm Power Distro Board (A).PcbDoc
-Date     : 1/16/2020
-Time     : 4:52:56 PM
+Date     : 2/1/2020
+Time     : 11:35:09 AM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:04
